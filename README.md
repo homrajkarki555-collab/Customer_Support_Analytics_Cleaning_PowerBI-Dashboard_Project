@@ -21,4 +21,12 @@ achieving optimal call center performance?
 As the call center management grappled with these questions, OptiConnect Solutions faced the challenge of
 enhancing operational efficiency, boosting agent productivity, and ultimately elevating customer satisfaction.
 
-- <a href="https://github.com/homrajkarki555-collab/Customer_Support_Analytics_Cleaning_PowerBI-Dashboard_Project/blob/main/Call%20Centre%20Dataset%20-%20Sheet1.csv">Call Centre Dataset </a>
+#Data Preparation Report: Call Center Dataset
+
+# 1. Objective
+The goal is to transform a raw, messy dataset into a structured, clean, and "analysis-ready" format. This involved fixing structural issues, handling missing data logically, and ensuring data types were correct for Power BI visualization.
+Key Questions: Were calls consistently answered in a timely manner? Did
+the agents successfully resolve customer issues? How did the speed of answer and average talk duration
+impact customer satisfaction? Were there patterns or trends hidden within the data that could unlock the key to
+achieving optimal call center performance?
+- <a href="https://github.com/homrajkarki555-collab/Customer_Support_Analytics_Cleaning_PowerBI-Dashboard_Project/blob/main/Call%20Centre%20Dataset%20-%20Sheet1.csv">Raw data- Call Centre Dataset </a>>
